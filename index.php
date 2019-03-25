@@ -6,9 +6,8 @@
 </head>
 <body>
 	<header>
-		<article>1</article>
-		<article>2</article>
-		<article>3</article>
+		<article>article</article>
+		<aside>aside</aside>
 	</header>
 </body>
 </html>
