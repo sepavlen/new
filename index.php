@@ -5,6 +5,10 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	<header>
+		<article>1</article>
+		<article>2</article>
+		<article>3</article>
+	</header>
 </body>
 </html>
